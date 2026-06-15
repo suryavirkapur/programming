@@ -1,0 +1,2 @@
+- Use the "cc" command to compile. It will execute the progam and immediately exit. You can see it's implementation in ".bashrc".
+- For files that use `std::thread` or `std::shared_mutex`, pass `-pthread` explicitly (the `cc` wrapper omits it): `g++ -std=c++17 -O2 -pthread file.cc -o exe`.
