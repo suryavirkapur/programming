@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_min_cost_climbing_stairs_submission_2.dir/Data_Structures_&_Algorithms/min-cost-climbing-stairs/submission-2.cpp.o" -o dsa_Data_Structures_Algorithms_min_cost_climbing_stairs_submission_2 

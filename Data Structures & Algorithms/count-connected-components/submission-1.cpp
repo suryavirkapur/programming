@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
     vector<int> parent;
 
@@ -34,3 +37,5 @@ public:
             return components;
     }
 };
+
+int main() { return 0; }

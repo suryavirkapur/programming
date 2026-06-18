@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_hand_of_straights_submission_0.dir/Data_Structures_&_Algorithms/hand-of-straights/submission-0.cpp.o" -o dsa_Data_Structures_Algorithms_hand_of_straights_submission_0 

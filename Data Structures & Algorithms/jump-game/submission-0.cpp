@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
@@ -12,3 +15,5 @@ public:
         return false;
     }
 };
+
+int main() { return 0; }

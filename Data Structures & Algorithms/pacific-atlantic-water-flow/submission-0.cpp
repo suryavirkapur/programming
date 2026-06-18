@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
    public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& grid) {
@@ -80,3 +83,5 @@ class Solution {
         return unionSet;
     }
 };
+
+int main() { return 0; }

@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int longestCommonSubsequence(string text1, string text2) {
@@ -22,3 +25,5 @@ public:
         return dp[n1][n2];
     }
 };
+
+int main() { return 0; }

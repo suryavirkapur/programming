@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_last_stone_weight_submission_0.dir/Data_Structures_&_Algorithms/last-stone-weight/submission-0.cpp.o" -o dsa_Data_Structures_Algorithms_last_stone_weight_submission_0 

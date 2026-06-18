@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
    public:
     int minDistance(string word1, string word2) {
@@ -22,3 +25,5 @@ class Solution {
         return dp[n][m];
     }
 };
+
+int main() { return 0; }

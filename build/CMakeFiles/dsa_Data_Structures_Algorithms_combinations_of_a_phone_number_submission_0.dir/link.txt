@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_combinations_of_a_phone_number_submission_0.dir/Data_Structures_&_Algorithms/combinations-of-a-phone-number/submission-0.cpp.o" -o dsa_Data_Structures_Algorithms_combinations_of_a_phone_number_submission_0 

@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int curMax = numeric_limits<int>::min();
@@ -19,3 +22,5 @@ public:
         return curMax;
     }
 };
+
+int main() { return 0; }

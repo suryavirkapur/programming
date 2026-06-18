@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
@@ -18,3 +21,5 @@ public:
         return curr;
     }
 };
+
+int main() { return 0; }

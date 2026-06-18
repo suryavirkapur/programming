@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_insert_new_interval_submission_1.dir/Data_Structures_&_Algorithms/insert-new-interval/submission-1.cpp.o" -o dsa_Data_Structures_Algorithms_insert_new_interval_submission_1 

@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class MedianFinder {
    private:
     priority_queue<int, vector<int>, greater<>> right;
@@ -50,3 +53,5 @@ class MedianFinder {
         }
     }
 };
+
+int main() { return 0; }

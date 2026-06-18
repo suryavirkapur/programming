@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
@@ -43,3 +46,5 @@ public:
         return freshCount == 0 ? currentMinute : -1;
     }
 };
+
+int main() { return 0; }

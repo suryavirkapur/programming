@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 /**
  * Definition of Interval:
  * class Interval {
@@ -23,3 +26,5 @@ public:
         return true;
     }
 };
+
+int main() { return 0; }

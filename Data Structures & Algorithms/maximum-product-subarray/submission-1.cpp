@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
@@ -16,3 +19,5 @@ public:
         return *max_element(dpa.begin(), dpa.end());
     }
 };
+
+int main() { return 0; }

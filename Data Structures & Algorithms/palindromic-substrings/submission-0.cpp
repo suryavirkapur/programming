@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int countSubstrings(string s) {
@@ -21,3 +24,5 @@ public:
         return count;
     }
 };
+
+int main() { return 0; }

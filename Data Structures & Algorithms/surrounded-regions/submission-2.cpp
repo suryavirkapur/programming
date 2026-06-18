@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     void solve(vector<vector<char>>& board) {
@@ -47,3 +50,5 @@ public:
         board = res;
     }
 };
+
+int main() { return 0; }

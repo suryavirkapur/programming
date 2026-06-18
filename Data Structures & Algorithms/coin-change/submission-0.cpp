@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int coinChange(vector<int>& coins, int N) {
@@ -13,3 +16,5 @@ public:
         return dp[N] == N+1 ? -1 : dp[N];
     }
 };
+
+int main() { return 0; }

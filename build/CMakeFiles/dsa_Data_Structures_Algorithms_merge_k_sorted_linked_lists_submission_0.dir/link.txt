@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_merge_k_sorted_linked_lists_submission_0.dir/Data_Structures_&_Algorithms/merge-k-sorted-linked-lists/submission-0.cpp.o" -o dsa_Data_Structures_Algorithms_merge_k_sorted_linked_lists_submission_0 

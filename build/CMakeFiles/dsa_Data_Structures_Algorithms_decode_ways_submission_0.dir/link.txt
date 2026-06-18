@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_decode_ways_submission_0.dir/Data_Structures_&_Algorithms/decode-ways/submission-0.cpp.o" -o dsa_Data_Structures_Algorithms_decode_ways_submission_0 

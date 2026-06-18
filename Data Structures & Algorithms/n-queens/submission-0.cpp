@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 private:
     bool checkQueen(int row, int col, vector<string> &board, int n) {
@@ -51,3 +54,5 @@ public:
         return res;
     }
 };
+
+int main() { return 0; }

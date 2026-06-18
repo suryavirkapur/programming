@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
    public:
     int lengthOfLIS(vector<int>& nums) {
@@ -14,3 +17,5 @@ class Solution {
         return *max_element(dp.begin(), dp.end());
     }
 };
+
+int main() { return 0; }

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_k_closest_points_to_origin_submission_0.dir/Data_Structures_&_Algorithms/k-closest-points-to-origin/submission-0.cpp.o" -o dsa_Data_Structures_Algorithms_k_closest_points_to_origin_submission_0 

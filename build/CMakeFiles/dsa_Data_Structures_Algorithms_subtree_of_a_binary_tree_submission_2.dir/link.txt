@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_subtree_of_a_binary_tree_submission_2.dir/Data_Structures_&_Algorithms/subtree-of-a-binary-tree/submission-2.cpp.o" -o dsa_Data_Structures_Algorithms_subtree_of_a_binary_tree_submission_2 

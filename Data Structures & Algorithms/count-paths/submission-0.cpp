@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int uniquePaths(int m, int n) {
@@ -24,3 +27,5 @@ public:
         return dp[m-1][n-1];
     }
 };
+
+int main() { return 0; }

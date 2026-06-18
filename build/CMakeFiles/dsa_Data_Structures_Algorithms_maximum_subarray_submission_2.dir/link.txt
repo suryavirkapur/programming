@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_maximum_subarray_submission_2.dir/Data_Structures_&_Algorithms/maximum-subarray/submission-2.cpp.o" -o dsa_Data_Structures_Algorithms_maximum_subarray_submission_2 

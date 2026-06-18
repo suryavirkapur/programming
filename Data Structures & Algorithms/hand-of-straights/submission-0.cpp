@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 using vi = vector<int>;
 using vvi =  vector<vi>;
 
@@ -43,3 +46,5 @@ public:
         return true;
     }
 };
+
+int main() { return 0; }

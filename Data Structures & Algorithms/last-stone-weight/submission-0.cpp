@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     priority_queue<int, vector<int>> pq;
@@ -17,3 +20,5 @@ public:
         return pq.empty() ? 0 : pq.top();
     }
 };
+
+int main() { return 0; }

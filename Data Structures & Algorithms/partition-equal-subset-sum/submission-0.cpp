@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
@@ -27,3 +30,5 @@ public:
     return dp[n][target];
     }
 };
+
+int main() { return 0; }

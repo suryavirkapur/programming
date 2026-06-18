@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
    public:
     int rob(vector<int>& nums) {
@@ -18,3 +21,5 @@ class Solution {
         return curr;
     }
 };
+
+int main() { return 0; }

@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
    private:
     bool backtrack(vector<vector<char>>& board, string word, int r, int c, int x, int y, int idx) {
@@ -32,3 +35,5 @@ class Solution {
         return false;
     }
 };
+
+int main() { return 0; }

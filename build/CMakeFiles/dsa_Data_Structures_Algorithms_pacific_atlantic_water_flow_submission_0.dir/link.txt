@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/dsa_Data_Structures_Algorithms_pacific_atlantic_water_flow_submission_0.dir/Data_Structures_&_Algorithms/pacific-atlantic-water-flow/submission-0.cpp.o" -o dsa_Data_Structures_Algorithms_pacific_atlantic_water_flow_submission_0 

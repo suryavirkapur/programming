@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 class Solution {
 public:
     int numDecodings(string s) {
@@ -26,3 +29,5 @@ public:
         return dp[N];
     }
 };
+
+int main() { return 0; }

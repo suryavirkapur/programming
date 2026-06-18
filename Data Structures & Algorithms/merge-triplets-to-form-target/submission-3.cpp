@@ -1,3 +1,6 @@
+#include "dsa/dsa.hpp"
+using namespace std;
+
 using vi = vector<int>;
 using vii = vector<vector<int>>;
 
@@ -22,3 +25,5 @@ public:
         return hasX && hasY && hasZ;
     }
 };
+
+int main() { return 0; }
