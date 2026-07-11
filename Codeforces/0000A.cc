@@ -1,4 +1,7 @@
+
 #include <iostream>
+#include <sstream>
+#include <string>
 #include <vector>
 
 using std::cin;
@@ -10,8 +13,10 @@ using vi = vector<int>;
 using vi64 = vector<i64>;
 
 void solve() {
+
   i64 n;
   cin >> n;
+
   cout << "" << "\n";
 }
 

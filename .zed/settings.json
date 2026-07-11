@@ -1,9 +1,0 @@
-{
-  "languages": {
-    "Python": {
-      "tab_size": 2,
-      "hard_tabs": false,
-      "format_on_save": "off"
-    }
-  }
-}
