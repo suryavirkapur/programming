@@ -26,6 +26,7 @@ Expected Output: [90.0, 60.0]
 """
 
 from typing import List, Set
+from collections import defaultdict
 
 class FraudRingDetector:
     def identify_rings(self, transactions: List[str]) -> List[Set[str]]:
@@ -33,7 +34,19 @@ class FraudRingDetector:
         Part 1: Identify groups of customers linked by Device ID.
         """
         # TODO: Implement Part 1
-        pass
+        mp: defaultdict[str, List[str]] = defaultdict(list)
+        for transaction in transactions:
+          customer, device = transaction.split(':')
+          print(customer, device)
+          mp[device].append(customer)
+
+        res: List[Set[str]] = []
+        print(mp)
+
+        for k,v in mp.items():
+          res.append(set(v))
+
+        return res
 
     def largest_ring_size(self, transactions: List[str]) -> int:
         """
