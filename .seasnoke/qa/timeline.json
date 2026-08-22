@@ -1,0 +1,50 @@
+{
+  "url": "http://127.0.0.1:8000/",
+  "timeline": [
+    {
+      "t_ms": 1,
+      "step": "navigate",
+      "url": "http://127.0.0.1:8000/"
+    },
+    {
+      "t_ms": 31,
+      "step": "loaded"
+    },
+    {
+      "t_ms": 32,
+      "step": "title",
+      "value": "programming-browser-20260612212620"
+    },
+    {
+      "t_ms": 78,
+      "step": "screenshot",
+      "name": "00-load",
+      "label": "initial paint",
+      "bytes": 16384
+    },
+    {
+      "t_ms": 680,
+      "step": "scroll",
+      "y": "mid"
+    },
+    {
+      "t_ms": 710,
+      "step": "screenshot",
+      "name": "01-scroll",
+      "label": "scrolled",
+      "bytes": 16384
+    },
+    {
+      "t_ms": 1578,
+      "step": "screenshot",
+      "name": "99-final",
+      "label": "final",
+      "bytes": 16384
+    },
+    {
+      "t_ms": 1581,
+      "step": "dom_dump",
+      "chars": 328
+    }
+  ]
+}
