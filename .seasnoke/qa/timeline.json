@@ -1,0 +1,73 @@
+{
+  "url": "http://127.0.0.1:8000/",
+  "timeline": [
+    {
+      "t_ms": 21,
+      "step": "navigate",
+      "url": "http://127.0.0.1:8000/"
+    },
+    {
+      "t_ms": 124,
+      "step": "loaded"
+    },
+    {
+      "t_ms": 127,
+      "step": "title",
+      "value": "programming"
+    },
+    {
+      "t_ms": 193,
+      "step": "screenshot",
+      "name": "00-load",
+      "label": "initial paint",
+      "bytes": 10483
+    },
+    {
+      "t_ms": 200,
+      "step": "theme",
+      "clicked": null,
+      "before": "light",
+      "after": "dark",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "t_ms": 935,
+      "step": "screenshot",
+      "name": "01-theme",
+      "label": "theme toggle / dark",
+      "bytes": 10444
+    },
+    {
+      "t_ms": 1537,
+      "step": "scroll",
+      "y": "mid"
+    },
+    {
+      "t_ms": 1569,
+      "step": "screenshot",
+      "name": "02-scroll",
+      "label": "scrolled",
+      "bytes": 10444
+    },
+    {
+      "t_ms": 2183,
+      "step": "theme",
+      "clicked": null,
+      "before": "light",
+      "after": "dark",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "t_ms": 2899,
+      "step": "screenshot",
+      "name": "99-final",
+      "label": "final",
+      "bytes": 10444
+    },
+    {
+      "t_ms": 2901,
+      "step": "dom_dump",
+      "chars": 341
+    }
+  ]
+}
